@@ -7,7 +7,7 @@ import numpy as np
 import re
 
 st.set_page_config(
-    page_title="DPWH Flood Control – Forensic Analytics",
+    page_title="DPWH Flood Control Analysis Dashboard",
     page_icon="🔎",
     layout="wide",
     initial_sidebar_state="expanded",
